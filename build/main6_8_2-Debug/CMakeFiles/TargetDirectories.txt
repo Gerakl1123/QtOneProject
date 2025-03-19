@@ -1,0 +1,9 @@
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/FileManagerArda.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/edit_cache.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/rebuild_cache.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/list_install_components.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/install.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/install/local.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/install/strip.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/FileManagerArda_autogen_timestamp_deps.dir
+C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug/CMakeFiles/FileManagerArda_autogen.dir

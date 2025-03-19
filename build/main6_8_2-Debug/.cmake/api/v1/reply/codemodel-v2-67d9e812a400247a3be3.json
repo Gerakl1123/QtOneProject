@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-e557b4fe8d67d847f672.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "FileManagerArda",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "FileManagerArda::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileManagerArda-Debug-f44c7080ebeab0988493.json",
+					"name" : "FileManagerArda",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileManagerArda_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileManagerArda_autogen-Debug-8566f3d84ca31e737570.json",
+					"name" : "FileManagerArda_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "FileManagerArda_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-FileManagerArda_autogen_timestamp_deps-Debug-073debbfb3b3ebe2afa3.json",
+					"name" : "FileManagerArda_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/German/Documents/FileManagerArda/build/main6_8_2-Debug",
+		"source" : "C:/Users/German/Documents/FileManagerArda"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
